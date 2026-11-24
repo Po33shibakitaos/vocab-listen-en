@@ -4,7 +4,7 @@
     <title>単語聞き流し 英語</title>
     <link>https://po33shibakitaos.github.io/vocab-listen-en/</link>
     <language>en</language>
-    <description>英語の単語を級ごとに聞き流す自分用の番組（英検5級・英検4級・英検3級・英検準2級・英検2級）。級はシーズンで分かれています。</description>
+    <description>英語の単語を級ごとに聞き流す自分用の番組（英検5級・英検4級・英検3級・英検準2級・英検準2級プラス・英検2級）。級はシーズンで分かれています。</description>
     <itunes:author>単語聞き流し</itunes:author>
     <itunes:image href="https://po33shibakitaos.github.io/vocab-listen-en/en/cover.png"/>
     <itunes:category text="Education"><itunes:category text="Language Learning"/></itunes:category>
@@ -273,6 +273,94 @@
       <itunes:duration>1602</itunes:duration>
       <itunes:season>4</itunes:season>
       <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>英検準2級プラス 第1回 単語1〜195</title>
+      <description>英検準2級プラスの単語 1-195 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-en/en/e2jp-01.mp3" length="11783620" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-e2jp-ep01</guid>
+      <pubDate>Sun, 29 Nov 2026 06:01:00 +0900</pubDate>
+      <itunes:duration>1472</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>英検準2級プラス 第2回 単語196〜390</title>
+      <description>英検準2級プラスの単語 196-390 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-en/en/e2jp-02.mp3" length="11763654" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-e2jp-ep02</guid>
+      <pubDate>Sun, 29 Nov 2026 06:02:00 +0900</pubDate>
+      <itunes:duration>1470</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>英検準2級プラス 第3回 単語391〜585</title>
+      <description>英検準2級プラスの単語 391-585 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-en/en/e2jp-03.mp3" length="11933766" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-e2jp-ep03</guid>
+      <pubDate>Sun, 29 Nov 2026 06:03:00 +0900</pubDate>
+      <itunes:duration>1491</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>英検準2級プラス 第4回 単語586〜780</title>
+      <description>英検準2級プラスの単語 586-780 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-en/en/e2jp-04.mp3" length="11957382" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-e2jp-ep04</guid>
+      <pubDate>Sun, 29 Nov 2026 06:04:00 +0900</pubDate>
+      <itunes:duration>1494</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>英検準2級プラス 第5回 単語781〜975</title>
+      <description>英検準2級プラスの単語 781-975 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-en/en/e2jp-05.mp3" length="11867910" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-e2jp-ep05</guid>
+      <pubDate>Sun, 29 Nov 2026 06:05:00 +0900</pubDate>
+      <itunes:duration>1483</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>英検準2級プラス 第6回 単語976〜1170</title>
+      <description>英検準2級プラスの単語 976-1170 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-en/en/e2jp-06.mp3" length="12176263" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-e2jp-ep06</guid>
+      <pubDate>Sun, 29 Nov 2026 06:06:00 +0900</pubDate>
+      <itunes:duration>1521</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>英検準2級プラス 第7回 単語1171〜1365</title>
+      <description>英検準2級プラスの単語 1171-1365 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-en/en/e2jp-07.mp3" length="11911688" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-e2jp-ep07</guid>
+      <pubDate>Sun, 29 Nov 2026 06:07:00 +0900</pubDate>
+      <itunes:duration>1488</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>英検準2級プラス 第8回 単語1366〜1555</title>
+      <description>英検準2級プラスの単語 1366-1555 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-en/en/e2jp-08.mp3" length="11815112" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-e2jp-ep08</guid>
+      <pubDate>Sun, 29 Nov 2026 06:08:00 +0900</pubDate>
+      <itunes:duration>1476</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>8</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
