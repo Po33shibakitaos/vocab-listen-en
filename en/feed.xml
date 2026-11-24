@@ -4,7 +4,7 @@
     <title>単語聞き流し 英語</title>
     <link>https://po33shibakitaos.github.io/vocab-listen-en/</link>
     <language>en</language>
-    <description>英語の単語を級ごとに聞き流す自分用の番組（英検5級・英検4級・英検3級・英検準2級・英検準2級プラス・英検2級）。級はシーズンで分かれています。</description>
+    <description>英語の単語を級ごとに聞き流す自分用の番組（英検5級・英検4級・英検3級・英検準2級・英検準2級プラス・英検2級・英検準1級）。級はシーズンで分かれています。</description>
     <itunes:author>単語聞き流し</itunes:author>
     <itunes:image href="https://po33shibakitaos.github.io/vocab-listen-en/en/cover.png"/>
     <itunes:category text="Education"><itunes:category text="Language Learning"/></itunes:category>
@@ -515,6 +515,226 @@
       <itunes:duration>1626</itunes:duration>
       <itunes:season>6</itunes:season>
       <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>英検準1級 第1回 単語1〜202</title>
+      <description>英検準1級の単語 1-202 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-en/en/e1j-01.mp3" length="12873779" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-e1j-ep01</guid>
+      <pubDate>Tue, 01 Dec 2026 06:01:00 +0900</pubDate>
+      <itunes:duration>1609</itunes:duration>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>英検準1級 第2回 単語203〜404</title>
+      <description>英検準1級の単語 203-404 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-en/en/e1j-02.mp3" length="13123189" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-e1j-ep02</guid>
+      <pubDate>Tue, 01 Dec 2026 06:02:00 +0900</pubDate>
+      <itunes:duration>1640</itunes:duration>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>英検準1級 第3回 単語405〜606</title>
+      <description>英検準1級の単語 405-606 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-en/en/e1j-03.mp3" length="13190581" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-e1j-ep03</guid>
+      <pubDate>Tue, 01 Dec 2026 06:03:00 +0900</pubDate>
+      <itunes:duration>1648</itunes:duration>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>英検準1級 第4回 単語607〜808</title>
+      <description>英検準1級の単語 607-808 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-en/en/e1j-04.mp3" length="13085173" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-e1j-ep04</guid>
+      <pubDate>Tue, 01 Dec 2026 06:04:00 +0900</pubDate>
+      <itunes:duration>1635</itunes:duration>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>英検準1級 第5回 単語809〜1010</title>
+      <description>英検準1級の単語 809-1010 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-en/en/e1j-05.mp3" length="13354166" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-e1j-ep05</guid>
+      <pubDate>Tue, 01 Dec 2026 06:05:00 +0900</pubDate>
+      <itunes:duration>1669</itunes:duration>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>英検準1級 第6回 単語1011〜1212</title>
+      <description>英検準1級の単語 1011-1212 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-en/en/e1j-06.mp3" length="13308279" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-e1j-ep06</guid>
+      <pubDate>Tue, 01 Dec 2026 06:06:00 +0900</pubDate>
+      <itunes:duration>1663</itunes:duration>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>英検準1級 第7回 単語1213〜1414</title>
+      <description>英検準1級の単語 1213-1414 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-en/en/e1j-07.mp3" length="13022391" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-e1j-ep07</guid>
+      <pubDate>Tue, 01 Dec 2026 06:07:00 +0900</pubDate>
+      <itunes:duration>1627</itunes:duration>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>英検準1級 第8回 単語1415〜1616</title>
+      <description>英検準1級の単語 1415-1616 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-en/en/e1j-08.mp3" length="13170807" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-e1j-ep08</guid>
+      <pubDate>Tue, 01 Dec 2026 06:08:00 +0900</pubDate>
+      <itunes:duration>1646</itunes:duration>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>英検準1級 第9回 単語1617〜1818</title>
+      <description>英検準1級の単語 1617-1818 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-en/en/e1j-09.mp3" length="13202295" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-e1j-ep09</guid>
+      <pubDate>Tue, 01 Dec 2026 06:09:00 +0900</pubDate>
+      <itunes:duration>1650</itunes:duration>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>英検準1級 第10回 単語1819〜2020</title>
+      <description>英検準1級の単語 1819-2020 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-en/en/e1j-10.mp3" length="12959801" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-e1j-ep10</guid>
+      <pubDate>Tue, 01 Dec 2026 06:10:00 +0900</pubDate>
+      <itunes:duration>1619</itunes:duration>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>英検準1級 第11回 単語2021〜2222</title>
+      <description>英検準1級の単語 2021-2222 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-en/en/e1j-11.mp3" length="13118777" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-e1j-ep11</guid>
+      <pubDate>Tue, 01 Dec 2026 06:11:00 +0900</pubDate>
+      <itunes:duration>1639</itunes:duration>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>英検準1級 第12回 単語2223〜2424</title>
+      <description>英検準1級の単語 2223-2424 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-en/en/e1j-12.mp3" length="13191161" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-e1j-ep12</guid>
+      <pubDate>Tue, 01 Dec 2026 06:12:00 +0900</pubDate>
+      <itunes:duration>1648</itunes:duration>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>英検準1級 第13回 単語2425〜2626</title>
+      <description>英検準1級の単語 2425-2626 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-en/en/e1j-13.mp3" length="13378169" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-e1j-ep13</guid>
+      <pubDate>Tue, 01 Dec 2026 06:13:00 +0900</pubDate>
+      <itunes:duration>1672</itunes:duration>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>英検準1級 第14回 単語2627〜2828</title>
+      <description>英検準1級の単語 2627-2828 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-en/en/e1j-14.mp3" length="13079609" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-e1j-ep14</guid>
+      <pubDate>Tue, 01 Dec 2026 06:14:00 +0900</pubDate>
+      <itunes:duration>1634</itunes:duration>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>英検準1級 第15回 単語2829〜3030</title>
+      <description>英検準1級の単語 2829-3030 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-en/en/e1j-15.mp3" length="13142009" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-e1j-ep15</guid>
+      <pubDate>Tue, 01 Dec 2026 06:15:00 +0900</pubDate>
+      <itunes:duration>1642</itunes:duration>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>英検準1級 第16回 単語3031〜3232</title>
+      <description>英検準1級の単語 3031-3232 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-en/en/e1j-16.mp3" length="12656249" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-e1j-ep16</guid>
+      <pubDate>Tue, 01 Dec 2026 06:16:00 +0900</pubDate>
+      <itunes:duration>1581</itunes:duration>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>英検準1級 第17回 単語3233〜3434</title>
+      <description>英検準1級の単語 3233-3434 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-en/en/e1j-17.mp3" length="12674873" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-e1j-ep17</guid>
+      <pubDate>Tue, 01 Dec 2026 06:17:00 +0900</pubDate>
+      <itunes:duration>1584</itunes:duration>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>英検準1級 第18回 単語3435〜3636</title>
+      <description>英検準1級の単語 3435-3636 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-en/en/e1j-18.mp3" length="13083257" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-e1j-ep18</guid>
+      <pubDate>Tue, 01 Dec 2026 06:18:00 +0900</pubDate>
+      <itunes:duration>1635</itunes:duration>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>英検準1級 第19回 単語3637〜3838</title>
+      <description>英検準1級の単語 3637-3838 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-en/en/e1j-19.mp3" length="13458233" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-e1j-ep19</guid>
+      <pubDate>Tue, 01 Dec 2026 06:19:00 +0900</pubDate>
+      <itunes:duration>1682</itunes:duration>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>英検準1級 第20回 単語3839〜4026</title>
+      <description>英検準1級の単語 3839-4026 を、単語（女性）→意味→単語（女性）→単語（男性）の順で読みます。</description>
+      <enclosure url="https://po33shibakitaos.github.io/vocab-listen-en/en/e1j-20.mp3" length="12051257" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-e1j-ep20</guid>
+      <pubDate>Tue, 01 Dec 2026 06:20:00 +0900</pubDate>
+      <itunes:duration>1506</itunes:duration>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>20</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
